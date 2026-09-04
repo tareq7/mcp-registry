@@ -24,7 +24,7 @@ about:
 source:
   project: https://github.com/kubeshop/testkube
   branch: main
-  commit: d392deb5bf6876064b2499f92fd78308aeb57c45
+  commit: fa95c43a6cf6532d1bac0f44db098e4864033446
   dockerfile: build/mcp-server/Dockerfile
 config:
   description: Configure the connection to the Testkube Control Plane
